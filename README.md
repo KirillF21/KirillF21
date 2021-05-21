@@ -4,16 +4,16 @@ Thank you for visiting my profile. I have nothing outstanding to show yet, but I
 
 Feel free to send me some links that you found helpful in the begging of your path in data science.🎓
 
-👷 Check out what I'm currently working on
+👷 **Check out what I'm currently working on**
 
 --there gonna be a list of my current projects--
 
 
-🌱 My latest projects
+🌱 **My latest projects**
 
 --there gonna be a list of my completed projects--
 
-📫 How to reach me
+📫 **How to reach me**
 
  - telegram: https://t.me/KirillFedyukov
  - mail - kirill.fedyukov97@gmail.com
