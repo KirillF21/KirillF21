@@ -1,8 +1,8 @@
-**👋 Hey**
+### Hey 👋
 
-Thank you for visiting my profile. I have nothing outstanding to show yet, but I hope it will appear soon. I'm just taking my first steps in learning Data science. I would appreciate any help. Always happy to chat with someone from that sphere, especially if you are good at this;)
+Thank you for visiting my profile. I have nothing outstanding to show yet, but I hope it will appear soon. I'm just taking my first steps in learning Data science. I would appreciate any help. Always happy to chat with someone from that sphere, especially if you are good at this👀
 
-Feel free to send me some links that you found helpful in the begging of your path in data science.
+Feel free to send me some links that you found helpful in the begging of your path in data science.🎓
 
 👷 Check out what I'm currently working on
 
