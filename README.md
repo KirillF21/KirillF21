@@ -15,7 +15,7 @@ Feel free to send me some links that you found helpful in the begging of your pa
 
 📫 How to reach me
 
- - telegram: t.me/@KirillFedyukov
+ - telegram: https://t.me/KirillFedyukov
  - mail - kirill.fedyukov97@gmail.com
 
 <!---
