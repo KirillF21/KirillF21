@@ -1,8 +1,9 @@
-# 👋 Hey
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Data Sciecne
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me by 
+**👋 Hey**
+
+📫 How to reach me
+
+ telegram - @KirillFedyukov
+ mail - kirill.fedyukov97@gmail.com
 
 <!---
 KirillF21/KirillF21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
