@@ -18,7 +18,7 @@ Feel free to send me some links that you found helpful in the beginning of your 
 📫 **How to reach me**
 
  - telegram: https://t.me/KirillFedyukov
- - mail - kirill.fedyukov97@gmail.com
+ - mail: kirill.fedyukov97@gmail.com
 
 <!---
 KirillF21/KirillF21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
