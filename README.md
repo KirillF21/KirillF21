@@ -7,7 +7,7 @@ Feel free to send me some links that you found helpful in the beginning of your 
 
 👷 **Check out what I'm currently working on**
 
-(kekw)[https://github.com/KirillF21/Exploratory_Data_Analysis]
+- [Exploratory Data Analysis](https://github.com/KirillF21/Exploratory_Data_Analysis)
 
 
 🌱 **My latest projects**
