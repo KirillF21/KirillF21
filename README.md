@@ -12,7 +12,7 @@ Feel free to send me some links that you found helpful in the beginning of your 
 
 🌱 **My latest projects**
 
--- there gonna be a list of my completed projects --
+--there gonna be a list of my completed projects--
 
 
 📫 **How to reach me**
