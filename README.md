@@ -7,7 +7,7 @@ Feel free to send me some links that you found helpful in the beginning of your 
 
 👷 **Check out what I'm currently working on**
 
-- [
+- [Machine learning](https://github.com/KirillF21/Machine_Learning)
 
 
 🌱 **My latest projects**
