@@ -7,12 +7,12 @@ Feel free to send me some links that you found helpful in the beginning of your 
 
 👷 **Check out what I'm currently working on**
 
-- [Exploratory Data Analysis](https://github.com/KirillF21/Exploratory_Data_Analysis)
+- [
 
 
 🌱 **My latest projects**
 
---there gonna be a list of my completed projects--
+- [Exploratory Data Analysis](https://github.com/KirillF21/Exploratory_Data_Analysis)
 
 
 📫 **How to reach me**
