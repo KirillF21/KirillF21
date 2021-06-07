@@ -7,7 +7,7 @@ Feel free to send me some links that you found helpful in the beginning of your 
 
 👷 **Check out what I'm currently working on**
 
-- [Machine learning](https://github.com/KirillF21/Machine_Learning)
+- [Machine learning](https://github.com/KirillF21/Study_projects/tree/main/Gold_mining)
 
 
 🌱 **My latest projects**
