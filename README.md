@@ -12,7 +12,7 @@ Feel free to send me some links that you found helpful in the beginning of your 
 
 🌱 **My latest projects**
 
-- [Exploratory Data Analysis](https://github.com/KirillF21/Exploratory_Data_Analysis)
+- [Exploratory Data Analysis](https://github.com/KirillF21/Study_projects/tree/main/EDA)
 
 
 📫 **How to reach me**
