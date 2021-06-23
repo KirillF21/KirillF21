@@ -7,12 +7,11 @@ Feel free to send me some links that you found helpful in the beginning of your 
 
 👷 **Check out what I'm currently working on**
 
-- [Machine learning](https://github.com/KirillF21/Study_projects/tree/main/Gold_mining)
 
 
 🌱 **My latest projects**
 
-- [Exploratory Data Analysis](https://github.com/KirillF21/Study_projects/tree/main/EDA)
+- [Study_projects](https://github.com/KirillF21/Study_projects)
 
 
 📫 **How to reach me**
