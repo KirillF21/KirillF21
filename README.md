@@ -22,7 +22,7 @@ Feel free to send me some links that you found helpful in the beginning of your 
 
 🏅 **Kaggle**
 
-https://www.kaggle.com/kirillfedyukov
+- profile: https://www.kaggle.com/kirillfedyukov
 
 <!---
 KirillF21/KirillF21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
