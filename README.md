@@ -19,11 +19,6 @@ Feel free to send me some links that you found helpful in the beginning of your 
  - telegram: https://t.me/KirillFedyukov
  - mail: kirill.fedyukov97@gmail.com
 
-
-🏅 **Kaggle**
-
-- profile: https://www.kaggle.com/kirillfedyukov
-
 <!---
 KirillF21/KirillF21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
